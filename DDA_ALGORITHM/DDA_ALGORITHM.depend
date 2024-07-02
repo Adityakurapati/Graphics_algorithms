@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705652669 source:d:\my users\aditya\engineering\semm2\cgr\dda_algorithm\main.cpp
+	<GL/glut.h>
+	<iostream>
+
